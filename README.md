@@ -27,3 +27,23 @@ Existen varias opciones de Windows y cada una tiene sus ventajas dependiendo de 
 - **Windows Server 21H2 (20348.1906)**: Aunque está diseñado para servidores, algunos entusiastas lo usan por su rendimiento optimizado y estabilidad.
 
 [Microsoft Support](https://support.microsoft.com/es-es/topic/8-de-agosto-de-2023-kb5029250-compilaci%C3%B3n-del-so-20348-1906-2db4a1ac-8e18-443e-b4d6-ee17435cf94c "Microsoft Support")
+
+Tabla de como usaria las versiones dependiendo de las necesidades de una persona.
+
+| COMPUTADORA  | WINDOWS  |
+| ------------ | ------------ |
+| Gama alta  | Windows 11 23H2  |
+|  Gama media | Windows 10 22H2  |
+| Gama baja  | Windows 10 LTSC 1809  |
+
+| MEJOR FPS  | WINDOWS  |
+| ------------ | ------------ |
+| Gama alta  | Windows 11 23H2  |
+|  Gama media | Windows 10 LTSC 1809  |
+| Gama baja  | Windows 10 LTSC 1809  |
+
+| MEJOR LATENCIA  | WINDOWS  |
+| ------------ | ------------ |
+| Gama alta  | Windows 11 23H2 - Windows Server 21H2  |
+|  Gama media | Windows Server 21H2  |
+| Gama baja  | Windows Server 21H2  |
